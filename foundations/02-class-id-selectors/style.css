@@ -1,0 +1,16 @@
+.odds{
+    background-color: #ee6c6c;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+.odds#cooler{
+    font-size: 24px;
+}
+#Title{
+    color: blue;
+    font-size: 36px;
+}
+#title{
+    background-color: #7adf88;
+    font-size: 24px;
+    font-weight: 700;
+}
