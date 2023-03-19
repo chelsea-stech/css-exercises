@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -10,39 +11,18 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  text-align: center;
+  margin-bottom: 32px;
 }
 
-.plants {
+.container {
   display: flex;
   justify-content: center;
-  padding: 16px;
+  gap: 52px;
 }
 
-.barberry {
-  flex: 0 1;
-  gap: 10px;
-  padding: 10px;
+.info {
+  max-width: 200px;
 }
-
-.chili {
-  flex: 0 1;
-  gap: 10px;
-  padding: 10px;
-}
-
-.pepper {
-  flex: 0 1;
-  gap: 10px;
-  padding: 10px;
-}
-
-.saffron {
-  flex: 0 1;
-  gap: 10px;
-  padding: 10px;
-}
-
 
 
 
